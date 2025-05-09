@@ -12,4 +12,4 @@ sortNumber(number);
 console.log(number);
 $ git add sort.js
 $ git commit -m "競合を解決"
-$ git push origin add-sort-func2
+$ git push origin add-sort-func4
