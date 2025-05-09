@@ -12,3 +12,4 @@ sortNumber(number);
 console.log(number);
 $ git add sort.js
 $ git commit -m "配列をソートする処理を追加しました"
+$ git push origin add-sort-func
