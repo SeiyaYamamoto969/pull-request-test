@@ -11,5 +11,5 @@ var number = [19, 3, 81, 1, 24, 21];
 sortNumber(number);
 console.log(number);
 $ git add sort.js
-$ git commit -m "配列をソートする処理を追加しました"
-$ git push origin add-sort-func3
+$ git commit -m "競合を解決"
+$ git push origin add-sort-func4
